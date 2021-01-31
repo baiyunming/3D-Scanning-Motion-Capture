@@ -46,7 +46,6 @@ set(HEADER_FILES
     PointCloud.h 
     Optimizer.h 
     FreeImageHelper.h
-    VirtualSensor.h
 )
 set(SOURCE_FILES 
     FreeImageHelper.cpp	 
